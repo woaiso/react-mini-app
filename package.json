@@ -1,0 +1,32 @@
+{
+  "name": "react-mini-app",
+  "version": "0.0.1",
+  "description": "react mini app",
+  "main": "app.tsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woaiso/react-mini-app.git"
+  },
+  "keywords": [
+    "react",
+    "wechat",
+    "alipay",
+    "mini",
+    "app"
+  ],
+  "author": "woaiso@woaiso.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/woaiso/react-mini-app/issues"
+  },
+  "homepage": "https://github.com/woaiso/react-mini-app#readme",
+  "dependencies": {
+    "react": "^16.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.25"
+  }
+}
